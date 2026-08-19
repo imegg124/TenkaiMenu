@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>An open-source, Unity-based Among Us mod menu with a clean GUI and powerful game modules.</b>
+  <b>An open-source, Unity-based Among Us mod menu with a clean GUI and powerful game modules. he means ai btw</b>
 </p>
 
 <!-- omit in toc -->
